@@ -1,0 +1,15 @@
+{
+  "name": "fan-test-arch",
+  "version": "1.0.2",
+  "description": "",
+  "bin": {
+    "fan-test": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
