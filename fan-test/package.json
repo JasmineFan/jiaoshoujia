@@ -1,6 +1,6 @@
 {
   "name": "fan-test-arch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "bin": {
     "fan-test": "bin/index.js"
@@ -8,6 +8,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fan-test-lib": "^1.1.0"
   },
   "keywords": [],
   "author": "",
